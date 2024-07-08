@@ -4,7 +4,7 @@ This project uses a Convolutional Neural Network (CNN) to classify images of met
 
 ## Installation
 
-1. Clone this repository:
+1. Clone this repository: 
 ```bash
 git clone https://github.com/your-username/metal-scrap-sorting.git
 cd metal-scrap-sorting
